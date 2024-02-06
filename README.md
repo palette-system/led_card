@@ -4,6 +4,25 @@
 
 <br><br>
 
+## BOOTHのリンク
+
+https://palette-system.booth.pm/items/5480323
+
+
+<br><br>
+
+
+PCBの裏からLEDをあてて文字が浮かび上がるかテストした基板です。<br>
+元のツイートはこちらです。<br>
+<br>
+https://twitter.com/4py1/status/1754078800667963583
+<br><br>
+作りはシンプルでTiny202にRGBLEDが34個繋がっているだけです。<br>
+電源は外部から入力してください。<br>
+Tiny202に書き込むようにPCBプレートの一番下にUPDI、VCC、GNDの3端子が付いているのでそこからTiny202へ書き込みが行えます。<br>
+
+<br><br>
+
 ## 動作動画
 
 <a href="https://twitter.com/4py1/status/1754078800667963583" target="_blank">よっぴ　ツイッター</a><br><br>
